@@ -111,6 +111,7 @@ async function run() {
             const user = req.body;
             const result = await allUser.insertOne(user)
             res.send(result)
+            console.log(result);
         })
 
         // Send a ping to confirm a successful connection
