@@ -1,83 +1,94 @@
 [
-    {
-      "id": 1,
-      "title": "Corsair",
-      "logo": "https://i.ibb.co/zr0xw6b/corsair.jpg",
-      "bannerImages": [
-        "https://i.ibb.co/yWtHNgG/FI-LQla-Xs-AMp-Ha2-1.jpg",
-        "https://i.ibb.co/WVH3RjN/maxresdefault-1.jpg",
-        "https://i.ibb.co/jkJtxSL/d9mrd0c-d95eeca4-1d26-491f-9002-d8167994077c.jpg"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Logitech",
-      "logo": "https://i.ibb.co/chsm4hR/Logitech-logo-design-removebg-preview.png",
-      "bannerImages": [
-        "https://i.ibb.co/LxKdw7T/Eh-Kcg-O2-Xs-AAu-4-Y-1.jpg",
-        "https://i.ibb.co/QDGT4my/Immerse-for-Logitech-G-Blog-and-Press-1-1-1.jpg",
-        "https://i.ibb.co/jkwpNQN/low-resolution-jpg-pro-wireless-babybay-device-portrait-EFg-Slr-H-1.jpg"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "ASUS",
-      "logo": "https://i.ibb.co/6Z4gQ0J/Asus-Logo.png",
-      "bannerImages": [
-        "https://i.ibb.co/gtM1fwb/kenton-reynolds-reynoldskenton-productadvertisement01-1.jpg",
-        "https://i.ibb.co/YW9y7sW/social-preview-1.jpg",
-        "https://i.ibb.co/rvpqtv6/maxresdefault-2-1.jpg"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "MSI",
-      "logo": "https://i.ibb.co/f2jHjKy/MSI-Logo.png",
-      "bannerImages": [
-        "https://i.ibb.co/KFqN9wh/msi-082923-social-1.jpg",
-        "https://i.ibb.co/3pDbC2p/ces-20200103-4-1.jpg",
-        "https://i.ibb.co/ZNXqV3x/maxresdefault-3-1.jpg"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Samsung",
-      "logo": "https://i.ibb.co/30pCYtf/Samsung-Logo-svg.png",
-      "bannerImages": [
-        "https://ibb.co/SKzT7V6/maxresdefault-4-1.jpg",
-        "https://ibb.co/Pxp3gyz/73fbe271026179-5bb6e7af358b6-1.jpg",
-        "https://ibb.co/QKTHKRk/maxresdefault-5-1.jpg"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Dell",
-      "logo": "https://i.ibb.co/92nnpxH/Dell-Logo-svg.png",
-      "bannerImages": [
-        "https://i.ibb.co/qkyqrzH/Screen-Shot-2019-11-08-at-4-48-50-PM-1024x572.jpg",
-        "https://i.ibb.co/qgCnSrf/Dell-Inspiron-1090x450-1.jpg",
-        "https://i.ibb.co/N3ShzJp/best-deals-black-friday-2018-dell-ad-feature-1.jpg"
-      ]
-    },
-    {
-      "id": 7,
-      "title": "Hp",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxOO0WqtCF2WKGZbpmH1ebvXGjYgiWQYnFAqNcQlVYwBnaJK5NL7ljYD_V_oIamJ0uzD8&usqp=CAU",
-      "bannerImages": [
-        "https://lh3.googleusercontent.com/proxy/TyE3LKySCxVZ2uVAsnQvmgRTLoFLXqzXE_EbC3Z3MVJQ1z4az7-5SeS9oxtBGLAG2fbBa9IeX8oO94PJ8li8AnORHrBh8-MQ1hm4ORf0FYAlTn75l0mbU0IoV4DATT7gSS-iJjv2",
-        "https://mir-s3-cdn-cf.behance.net/projects/404/2abe76134757763.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg",
-        "https://cdn.bdstall.com/product-image/giant_222125.jpg"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Lenovo",
-      "logo": "https://static.vecteezy.com/system/resources/previews/020/927/585/non_2x/lenovo-logo-brand-phone-symbol-name-white-design-china-mobile-illustration-with-black-background-free-vector.jpg",
-      "bannerImages": [
-        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/43fd4ce7-0b96-4846-94cb-9bcce96d532b.__CR0,0,970,300_PT0_SX970_V1___.jpg",
-        "https://www.totalimports.ie/image/catalog/Manufacturer/lenovo_brand_700x280px.jpg",
-        "https://cdn.gadgetbytenepal.com/wp-content/uploads/2024/02/Lenovo-V14-Price-in-Nepal.jpg"
-      ]
-    }
-  ]
-  
+  {
+    "id": 9,
+    "title": "Apple",
+    "logo": "https://www.the-sun.com/wp-content/uploads/sites/6/2023/06/apple-logo-grey-comp.jpg?w=620",
+    "bannerImages": [
+      "https://static.eway.ca/content/landingpage/251/en/Profesisonal_appleforbusiness_headerbanner.jpg",
+      "https://www.wesalute.com/sites/default/files/styles/hero_image_front/public/2022-09/apple-landing-page.jpg?itok=KaI4P9QP",
+      "https://www.miit.co.nz/wp-content/uploads/2021/10/give-something-wonderfull-scaled.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "ASUS",
+    "logo": "https://i.ibb.co/6Z4gQ0J/Asus-Logo.png",
+    "bannerImages": [
+      "https://i.ibb.co/gtM1fwb/kenton-reynolds-reynoldskenton-productadvertisement01-1.jpg",
+      "https://i.ibb.co/YW9y7sW/social-preview-1.jpg",
+      "https://i.ibb.co/rvpqtv6/maxresdefault-2-1.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Hp",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxOO0WqtCF2WKGZbpmH1ebvXGjYgiWQYnFAqNcQlVYwBnaJK5NL7ljYD_V_oIamJ0uzD8&usqp=CAU",
+    "bannerImages": [
+      "https://lh3.googleusercontent.com/proxy/TyE3LKySCxVZ2uVAsnQvmgRTLoFLXqzXE_EbC3Z3MVJQ1z4az7-5SeS9oxtBGLAG2fbBa9IeX8oO94PJ8li8AnORHrBh8-MQ1hm4ORf0FYAlTn75l0mbU0IoV4DATT7gSS-iJjv2",
+      "https://mir-s3-cdn-cf.behance.net/projects/404/2abe76134757763.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg",
+      "https://cdn.bdstall.com/product-image/giant_222125.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "MSI",
+    "logo": "https://i.ibb.co/f2jHjKy/MSI-Logo.png",
+    "bannerImages": [
+      "https://i.ibb.co/KFqN9wh/msi-082923-social-1.jpg",
+      "https://i.ibb.co/3pDbC2p/ces-20200103-4-1.jpg",
+      "https://i.ibb.co/ZNXqV3x/maxresdefault-3-1.jpg"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Corsair",
+    "logo": "https://i.ibb.co/zr0xw6b/corsair.jpg",
+    "bannerImages": [
+      "https://i.ibb.co/yWtHNgG/FI-LQla-Xs-AMp-Ha2-1.jpg",
+      "https://i.ibb.co/WVH3RjN/maxresdefault-1.jpg",
+      "https://i.ibb.co/jkJtxSL/d9mrd0c-d95eeca4-1d26-491f-9002-d8167994077c.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Logitech",
+    "logo": "https://i.ibb.co/chsm4hR/Logitech-logo-design-removebg-preview.png",
+    "bannerImages": [
+      "https://i.ibb.co/LxKdw7T/Eh-Kcg-O2-Xs-AAu-4-Y-1.jpg",
+      "https://i.ibb.co/QDGT4my/Immerse-for-Logitech-G-Blog-and-Press-1-1-1.jpg",
+      "https://i.ibb.co/jkwpNQN/low-resolution-jpg-pro-wireless-babybay-device-portrait-EFg-Slr-H-1.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Dell",
+    "logo": "https://i.ibb.co/92nnpxH/Dell-Logo-svg.png",
+    "bannerImages": [
+      "https://i.ibb.co/qkyqrzH/Screen-Shot-2019-11-08-at-4-48-50-PM-1024x572.jpg",
+      "https://i.ibb.co/qgCnSrf/Dell-Inspiron-1090x450-1.jpg",
+      "https://i.ibb.co/N3ShzJp/best-deals-black-friday-2018-dell-ad-feature-1.jpg"
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "Samsung",
+    "logo": "https://i.ibb.co/30pCYtf/Samsung-Logo-svg.png",
+    "bannerImages": [
+      "https://ibb.co/SKzT7V6/maxresdefault-4-1.jpg",
+      "https://ibb.co/Pxp3gyz/73fbe271026179-5bb6e7af358b6-1.jpg",
+      "https://ibb.co/QKTHKRk/maxresdefault-5-1.jpg"
+    ]
+  },
+
+  {
+    "id": 8,
+    "title": "Lenovo",
+    "logo": "https://static.vecteezy.com/system/resources/previews/020/927/585/non_2x/lenovo-logo-brand-phone-symbol-name-white-design-china-mobile-illustration-with-black-background-free-vector.jpg",
+    "bannerImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/43fd4ce7-0b96-4846-94cb-9bcce96d532b.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://www.totalimports.ie/image/catalog/Manufacturer/lenovo_brand_700x280px.jpg",
+      "https://cdn.gadgetbytenepal.com/wp-content/uploads/2024/02/Lenovo-V14-Price-in-Nepal.jpg"
+    ]
+  }
+]
