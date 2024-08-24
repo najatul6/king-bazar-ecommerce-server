@@ -31,6 +31,7 @@ async function run() {
         const allProducts = client.db('kingBazarDB').collection('AllProducts');
         const allUser = client.db('kingBazarDB').collection('AllUser');
         const brands = client.db('kingBazarDB').collection('brands');
+        const bestDeals = client.db('kingBazarDB').collection('bestDeals');
 
         app.get('/brands', async(req, res) => {
             const allBrand= brands.find()
