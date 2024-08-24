@@ -45,6 +45,13 @@ async function run() {
             console.log(id, findData);
             res.send(findData)
         })
+
+        app.get('/bestDeals', async(req, res) => {
+            const bestProduct= bestDeals.find()
+            const result = await bestProduct.toArray();
+            res.send(result)
+            // console.log(result);
+        })
      
         app.get('/allProducts', async(req, res) => {
             const cursor = allProducts.find();
