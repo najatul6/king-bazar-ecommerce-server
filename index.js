@@ -36,7 +36,7 @@ async function run() {
             const allBrand= brands.find()
             const result = await allBrand.toArray();
             res.send(result)
-            console.log(result);
+            // console.log(result);
         })
         app.get('/brands/:id', (req, res) => {
             const id = req.params.id;
