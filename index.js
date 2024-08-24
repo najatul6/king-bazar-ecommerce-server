@@ -30,8 +30,20 @@ async function run() {
 
         const allProducts = client.db('kingBazarDB').collection('AllProducts');
         const allUser = client.db('kingBazarDB').collection('AllUser');
+        const brands = client.db('kingBazarDB').collection('brands');
 
-     
+        app.get('/brands', async(req, res) => {
+            const allBrand= brands.find()
+            const result = await allBrand.toArray();
+            res.send(result)
+            console.log(result);
+        })
+        app.get('/brands/:id', (req, res) => {
+            const id = req.params.id;
+            const findData = brandsData.find(brand => brand.id === parseInt(id));
+            console.log(id, findData);
+            res.send(findData)
+        })
      
         app.get('/allProducts', async(req, res) => {
             const cursor = allProducts.find();
@@ -107,15 +119,7 @@ run().catch(console.dir);
 app.get('/', (req, res) => {
     res.send('KING BAZZARS ECOMMERCE SITES SERVER IS RUNNING')
 })
-app.get('/brands', (req, res) => {
-    res.send(brandsData)
-})
-app.get('/brands/:id', (req, res) => {
-    const id = req.params.id;
-    const findData = brandsData.find(brand => brand.id === parseInt(id));
-    // console.log(id, findData);
-    res.send(findData)
-})
+
 
 
 
