@@ -39,11 +39,13 @@ async function run() {
             res.send(result)
             // console.log(result);
         })
-        app.get('/brands/:id', (req, res) => {
+        app.get('/brands/:id', async(req, res) => {
             const id = req.params.id;
-            const findData = brandsData.find(brand => brand.id === parseInt(id));
-            console.log(id, findData);
-            res.send(findData)
+            const query = { _id: new ObjectId(id) };
+            const result = await brands.findOne(query)
+            // const findData = brandsData.find(brand => brand._id === parseInt(query));
+            console.log("mydata:", result);
+            res.send(result)
         })
 
         app.get('/bestDeals', async(req, res) => {
